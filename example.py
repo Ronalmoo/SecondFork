@@ -1,2 +1,2 @@
 for i in range(1, 11):
-    print("GG")
+    print("kim hee sung e yo")
